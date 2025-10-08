@@ -10,7 +10,7 @@ A Spring Boot project demonstrating **CRUD operations** (Create, Read, Update, D
 - **Spring Boot**  
 - **Spring Data JPA**  
 - **Maven**  
-- **MySQL** (you can choose your database)  
+- **MySQL**  
 - **IntelliJ IDEA**  
 
 ---
